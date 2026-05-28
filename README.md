@@ -177,28 +177,6 @@ O projeto possui integração contínua configurada com GitHub Actions.
 
 Sempre que um novo push é realizado na branch principal, os testes são executados automaticamente.
 
----
-
-# Prints do projeto
-
-## Testes executando localmente
-
-ADICIONAR PRINT
-
----
-
-## GitHub Actions
-
-ADICIONAR PRINT
-
----
-
-## Automação Web
-
-ADICIONAR PRINT
-
----
-
 
 
 
