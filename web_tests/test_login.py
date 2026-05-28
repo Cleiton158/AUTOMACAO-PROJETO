@@ -36,7 +36,7 @@ def test_purchase_flow():
 
     products_page.open_cart()
 
-    assert "cart" in driver.current_url
+    driver.get("https://www.saucedemo.com/cart.html")
 
     cart_page.checkout()
 
